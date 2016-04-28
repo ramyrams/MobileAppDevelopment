@@ -13,3 +13,7 @@
 ## Resolve Issues
 
 * [Fix adb Android Device Unauthorized](http://stackoverflow.com/questions/23081263/adb-android-device-unauthorized)
+
+
+
+adb devices
