@@ -17,3 +17,8 @@
 
 
 adb devices
+
+
+# Mobile
+* [HOW I BUILT A PROGRESSIVE BEER APP](http://www.deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/)
+
