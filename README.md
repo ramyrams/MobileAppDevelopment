@@ -9,6 +9,10 @@
 	
 	
 
+* [Mobile Web Development vs Mobile App Development](https://www.script-tutorials.com/the-progression-of-web-development-for-mobile-phones/)
+
+
+
 
 ## Resolve Issues
 
