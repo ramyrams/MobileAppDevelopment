@@ -8,6 +8,7 @@
 * [20 Things To Do Before You Build an App](http://www.bluecloudsolutions.com/blog/20-things-to-do-before-you-build-an-app-mobile-development-checklist/)	
 	
 	
+* [15 tips for cross-device optimisation](http://www.creativebloq.com/how-to/15-tips-for-cross-device-optimisation)
 
 * [Mobile Web Development vs Mobile App Development](https://www.script-tutorials.com/the-progression-of-web-development-for-mobile-phones/)
 
