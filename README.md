@@ -26,9 +26,7 @@ adb devices
 
 # Mobile
 * [HOW I BUILT A PROGRESSIVE BEER APP](http://www.deanhume.com/Home/BlogPost/how-i-built-a-progressive-beer-app/)
-* 
-
 * [Top 10 Cross-Platform Mobile Development Tools](http://www.hongkiat.com/blog/cross-mobile-platform-framework-wora/)
-
+* [Your Guide to App Store Optimization-ASO](https://www.sitepoint.com/your-guide-to-app-store-optimization-aso/)
 
 
