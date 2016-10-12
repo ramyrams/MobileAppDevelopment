@@ -86,7 +86,7 @@ use Android Device Monitor provided in Android sdk tools
 * [Integrating Google Maps with an Ionic Application](http://www.joshmorony.com/integrating-google-maps-with-an-ionic-application/)
 * [Ionic Framework](https://www.script-tutorials.com/ionic-framework/)
 
-
+https://code.tutsplus.com/tutorials/getting-started-with-ionic-cordova--cms-27023
 
 ## Code Snippets
 
