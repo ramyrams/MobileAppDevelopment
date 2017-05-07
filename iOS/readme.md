@@ -9,6 +9,7 @@ https://www.polidea.com/blog/Protecting_iOS_Applications/
 
 # Libs
 http://nimbuskit.info/
+https://www.raywenderlich.com/21987/top-10-most-useful-ios-libraries-to-know-and-love
 http://appfoundry.be/blog/2014/07/29/Objective-C-Top-Libraries
 https://github.com/sfackler/log4rs
 https://www.raywenderlich.com/21987/top-10-most-useful-ios-libraries-to-know-and-love
