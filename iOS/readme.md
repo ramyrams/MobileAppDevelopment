@@ -18,6 +18,8 @@ http://appfoundry.be/blog/2014/07/29/Objective-C-Top-Libraries
 https://github.com/sfackler/log4rs
 https://www.raywenderlich.com/21987/top-10-most-useful-ios-libraries-to-know-and-love
 http://www.oodlestechnologies.com/blogs/Some-Swift-libraries-every-iOS-developer-should-know-about
+https://github.com/spotify/HubFramework
+https://github.com/jverkoey/iOS-Framework
 
 http://benscheirman.com/2013/08/the-ios-developers-toolbelt/
 
