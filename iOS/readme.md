@@ -6,8 +6,12 @@ https://www.polidea.com/blog/The_perfect_recipe_for_IOS_App_automation/
 
 https://www.polidea.com/blog/Protecting_iOS_Applications/
 
+# Framework
+https://github.com/jverkoey/iOS-Framework
 
 # Libs
+http://www.xmcgraw.com/20-essential-tools-and-libraries-for-ios-developers/
+https://cloudrail.com/best-ios-libraries-developers/
 http://nimbuskit.info/
 https://www.raywenderlich.com/21987/top-10-most-useful-ios-libraries-to-know-and-love
 http://appfoundry.be/blog/2014/07/29/Objective-C-Top-Libraries
