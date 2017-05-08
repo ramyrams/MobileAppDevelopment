@@ -20,7 +20,7 @@ https://www.raywenderlich.com/21987/top-10-most-useful-ios-libraries-to-know-and
 http://www.oodlestechnologies.com/blogs/Some-Swift-libraries-every-iOS-developer-should-know-about
 https://github.com/spotify/HubFramework
 https://github.com/jverkoey/iOS-Framework
-
+https://infinum.co/the-capsized-eight/top-5-ios-libraries-every-ios-developer-should-know-about
 http://benscheirman.com/2013/08/the-ios-developers-toolbelt/
 
 https://medium.mybridge.co/39-open-source-swift-ui-libraries-for-ios-app-development-da1f8dc61a0f
