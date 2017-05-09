@@ -31,3 +31,58 @@ https://github.com/Alamofire/Alamofire
 
 https://www.quora.com/What-are-some-open-source-libraries-every-iOS-developer-should-know
 
+
+
+# Mobile UI Pattern
+http://www.mobile-patterns.com/
+
+
+# iOS Architecture Patterns
+https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52
+
+MVVM — It’s All In The (Implementation) Details
+https://medium.com/upday-devs/mvvm-its-all-in-the-implementation-details-40ed24871a02
+
+Journeys in OOP Design — Dependency Injection
+https://medium.com/@dastrimpel/journeys-in-oop-design-dependency-injection-3fb8522e9df
+
+How to make the perfect Singleton?
+https://android.jlelse.eu/how-to-make-the-perfect-singleton-de6b951dfdb0
+
+
+Design Patterns and Sources
+
+https://uiux.blog/design-patterns-and-sources-45c40056fc41
+
+
+Dependency Injection — What, Why and How?
+https://medium.com/@sai_prasanna/dependency-injection-what-why-and-how-b19551beb012
+
+
+Design Patterns — Creational Patterns — Factory Pattern in Swift
+https://medium.com/swift-programming/design-patterns-creational-patterns-factory-pattern-in-swift-d049af54235b
+
+
+Architecting an Analytics layer
+https://medium.com/ios-os-x-development/architecting-an-analytics-layer-7cdacb5f74af
+
+Design Patterns in Swift
+https://medium.com/jeremy-codes/design-patterns-in-swift-6de09f27afba
+
+
+Design Pattern: Strategy and Burger
+https://medium.com/@sihui/design-pattern-strategy-and-burger-d31541d295a9
+
+Object Composition Patterns in JavaScript
+https://developers.caffeina.com/object-composition-patterns-in-javascript-4853898bb9d0
+
+Design patterns
+https://medium.com/enterprise-ux/design-patterns-49b0396ddb76
+
+
+Designing iOS Social Network App Architecture
+https://medium.com/@AGordeev/designing-ios-social-network-app-architecture-d6bf76a94ce4
+
+
+Object-Oriented Analysis And Design — Design Patterns (Part 7)
+https://medium.com/omarelgabrys-blog/object-oriented-analysis-and-design-design-patterns-part-7-bc9c003a0f29
