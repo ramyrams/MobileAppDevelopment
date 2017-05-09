@@ -4,6 +4,11 @@ https://github.com/JStumpp/awesome-android
 
 https://github.com/wasabeef/awesome-android-tools
 
+
+https://android.libhunt.com/
+A curated list of awesome Android packages and resources
+
+
 List of Android UI/UX Libraries
 https://github.com/wasabeef/awesome-android-ui
 
