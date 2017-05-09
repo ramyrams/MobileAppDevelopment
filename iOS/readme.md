@@ -88,3 +88,23 @@ https://medium.com/@AGordeev/designing-ios-social-network-app-architecture-d6bf7
 
 Object-Oriented Analysis And Design — Design Patterns (Part 7)
 https://medium.com/omarelgabrys-blog/object-oriented-analysis-and-design-design-patterns-part-7-bc9c003a0f29
+
+
+https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c
+
+
+# Security
+iOS App Security and Analysis: Part 1/2
+https://code.tutsplus.com/articles/how-to-secure-an-ios-app--cms-26533
+
+https://developer.apple.com/library/content/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html
+https://www.owasp.org/index.php/IOS_Application_Security_Testing_Cheat_Sheet
+
+http://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform/#gref
+
+http://resources.infosecinstitute.com/ios-application-security-part-40-testing-apps-on-your-mac/#gref
+
+https://verify.ly/
+
+
+https://github.com/google/EarlGrey
