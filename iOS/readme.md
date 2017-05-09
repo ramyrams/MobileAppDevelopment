@@ -11,6 +11,7 @@ https://www.polidea.com/blog/Protecting_iOS_Applications/
 https://github.com/jverkoey/iOS-Framework
 
 # Libs
+https://medium.com/ios-os-x-development/libraries-used-in-the-top-100-ios-apps-5b845ad927b7
 http://www.xmcgraw.com/20-essential-tools-and-libraries-for-ios-developers/
 https://cloudrail.com/best-ios-libraries-developers/
 http://nimbuskit.info/
