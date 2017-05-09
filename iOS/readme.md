@@ -8,6 +8,8 @@ https://www.polidea.com/blog/The_perfect_recipe_for_IOS_App_automation/
 https://www.polidea.com/blog/Protecting_iOS_Applications/
 
 
+https://swift.libhunt.com/
+A curated list of awesome swift libraries and resources
 
 https://ios.libhunt.com - A curated list of awesome iOS libraries, including Objective-C and Swift Projects
 Find the software you need
