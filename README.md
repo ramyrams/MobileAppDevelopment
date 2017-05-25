@@ -26,3 +26,6 @@
 https://medium.com/intuz/14-most-popular-mobile-app-analytics-tools-every-business-should-know-b0ade8a7eea3
 
 https://transporterapp.io/pricing.html
+
+Kotlin
+http://tutorialzine.com/2017/05/20-excellent-resources-for-learning-kotlin/
