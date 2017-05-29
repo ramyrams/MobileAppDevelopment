@@ -115,6 +115,11 @@ ionic serve --address 68.54.96.105
 
 ```
 
+
+Benefits of Hybrid App Development With the Ionic Framework 
+https://dzone.com/articles/ionic-framework-features-amp-benefits-in-hybrid-mo
+
+
 ### iOS Prerequisite
 * OSX
 * Xcode
