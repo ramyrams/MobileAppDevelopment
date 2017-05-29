@@ -29,3 +29,6 @@ https://transporterapp.io/pricing.html
 
 Kotlin
 http://tutorialzine.com/2017/05/20-excellent-resources-for-learning-kotlin/
+
+Everything You Need to Know About Mobile App Architecture
+https://dzone.com/articles/everything-you-need-to-know-about-mobile-app-archi?
